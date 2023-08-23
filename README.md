@@ -20,5 +20,5 @@ The link to the deployed application is here https://isaacmasterman.github.io/M0
 ![Website screenshot 01](assets/images/Horiseon-screenshot-01.png)
 ![Website screenshot 02](assets/images/Horiseon-screenshot-02.png)
 
-License
+## License
 This project is licensed under the MIT License.
