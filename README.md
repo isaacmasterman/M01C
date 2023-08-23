@@ -17,8 +17,8 @@ The Horiseon Marketing Agency website provides information on various marketing 
 
 The link to the deployed application is here https://isaacmasterman.github.io/M01C/ 
 
-![Website screenshot 01](assets/images/Horiseon-screenshot-01)
-![Website screenshot 02](assets/images/Horiseon-screenshot-02)
+![Website screenshot 01](assets/images/Horiseon-screenshot-01.png)
+![Website screenshot 02](assets/images/Horiseon-screenshot-02.png)
 
 License
 This project is licensed under the MIT License.
